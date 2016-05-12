@@ -1,0 +1,3 @@
+work.py is hardcoded to expect home.py to be running on student02.cse.nd.edu, but this can easily be changed using the global variable, host, at the top of work.py.
+
+The port used for the client connection in home.py is 9001. Again, this can be changed using the global variable, clientPort, at the top of home.py.

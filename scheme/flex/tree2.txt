@@ -1,0 +1,1 @@
+((o e x o x o e e x) ((o e x o x o e x x) ((o e x o x o o x x)) ((o o x o x o e x x) ((o o x o x o x x x)))) ((o e x o x o x e x)) ((o x x o x o e e x) ((o x x o x o e o x) ((o x x o x o x o x))) ((o x x o x o o e x))))

@@ -1,0 +1,15 @@
+Authors: Samantha Rack, srack
+	 Adrian Gerbaud, agerbau2
+
+Describe the main features of your game.
+For our final project we decided to create our own implementation of the old 1972 ATARI Pong game. The gameplay consists of avoiding a ball to go into your "goal" while at the same time trying to get the ball past your opponent. Everytime the ball gets past you, your opponent's score is increased by one. The game continues indefinitely until one of the players quits.
+
+Be sure to explain exactly how to set up and start your game; imagine you are writing directions for a computer novice. 
+
+The game is quite easy to setup. First run server.py on one of the student02 machine by typing: "python2.6 server.py"
+Then, have player1 run the client from any other machine on campus by typing "python2.6 client.py"
+      This will connect to student02 on port number 9233 and wait for another player to connect
+Then, have player2 run the client from another machine on the network by typing the same command as above.
+      This will tell the server that a second player has joined the game and thus it is ready to start.
+
+Enjoy playing retro pong. Quit the window and your opponent  will see "Game Over" printed on his or her screen.

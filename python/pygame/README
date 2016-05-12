@@ -1,0 +1,4 @@
+PyGame Primer README
+Sam Rack
+
+The game is a duplicate of the "Deathstar Simulator" that was shown in class. The laser is fired by pressing the space bar. The deathstar moves using the arrow keys, and is only limited in where it can go by boundaries of the game window and the area close to the earth.
